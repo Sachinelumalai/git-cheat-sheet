@@ -19,4 +19,4 @@
 15. git rebase  - used to move the changes made in the branches
 16. git cherry-pick - used to get the particular data from the branch
 17. git stash - used to hold the data in the local device without showing in staging area.
- 
+
